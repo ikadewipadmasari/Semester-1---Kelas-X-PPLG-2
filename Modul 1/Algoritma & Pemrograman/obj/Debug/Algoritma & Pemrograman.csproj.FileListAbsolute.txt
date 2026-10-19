@@ -1,0 +1,7 @@
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\bin\Debug\Algoritma & Pemrograman.exe.config
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\bin\Debug\Algoritma & Pemrograman.exe
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\bin\Debug\Algoritma & Pemrograman.pdb
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\obj\Debug\Algoritma & Pemrograman.csproj.AssemblyReference.cache
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\obj\Debug\Algoritma & Pemrograman.csproj.CoreCompileInputs.cache
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\obj\Debug\Algoritma & Pemrograman.exe
+D:\ika_x_pplg_2\Algoritma & Pemrograman\Algoritma & Pemrograman\obj\Debug\Algoritma & Pemrograman.pdb
