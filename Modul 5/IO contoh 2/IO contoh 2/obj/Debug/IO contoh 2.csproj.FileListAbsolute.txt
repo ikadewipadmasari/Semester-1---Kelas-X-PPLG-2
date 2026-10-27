@@ -1,0 +1,7 @@
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\bin\Debug\IO contoh 2.exe.config
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\bin\Debug\IO contoh 2.exe
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\bin\Debug\IO contoh 2.pdb
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\obj\Debug\IO contoh 2.csproj.AssemblyReference.cache
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\obj\Debug\IO contoh 2.csproj.CoreCompileInputs.cache
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\obj\Debug\IO contoh 2.exe
+D:\ika_x_pplg_2\Modul 5\IO contoh 2\IO contoh 2\obj\Debug\IO contoh 2.pdb
