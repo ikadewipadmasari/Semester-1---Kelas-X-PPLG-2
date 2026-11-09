@@ -1,0 +1,7 @@
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\bin\Debug\Latihan Soal Perulangan.exe.config
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\bin\Debug\Latihan Soal Perulangan.exe
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\bin\Debug\Latihan Soal Perulangan.pdb
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\obj\Debug\Latihan Soal Perulangan.csproj.AssemblyReference.cache
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\obj\Debug\Latihan Soal Perulangan.csproj.CoreCompileInputs.cache
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\obj\Debug\Latihan Soal Perulangan.exe
+D:\ika_x_pplg_2\Latihan Soal Modul Perulangan\Latihan Soal Perulangan\Latihan Soal Perulangan\obj\Debug\Latihan Soal Perulangan.pdb

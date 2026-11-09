@@ -1,0 +1,7 @@
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\bin\Debug\Hasil Soal.exe.config
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\bin\Debug\Hasil Soal.exe
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\bin\Debug\Hasil Soal.pdb
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\obj\Debug\Hasil Soal.csproj.AssemblyReference.cache
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\obj\Debug\Hasil Soal.csproj.CoreCompileInputs.cache
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\obj\Debug\Hasil Soal.exe
+D:\ika_x_pplg_2\Modul 4\Hasil Soal\Hasil Soal\obj\Debug\Hasil Soal.pdb

@@ -1,0 +1,7 @@
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\obj\Debug\Kondisi dan Pemilihan.csproj.AssemblyReference.cache
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\obj\Debug\Kondisi dan Pemilihan.csproj.CoreCompileInputs.cache
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\bin\Debug\Kondisi dan Pemilihan.exe.config
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\bin\Debug\Kondisi dan Pemilihan.exe
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\bin\Debug\Kondisi dan Pemilihan.pdb
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\obj\Debug\Kondisi dan Pemilihan.exe
+D:\ika_x_pplg_2\Kondisi dan Pemilihan\Kondisi dan Pemilihan\obj\Debug\Kondisi dan Pemilihan.pdb
